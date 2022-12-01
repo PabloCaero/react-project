@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-      <img src="images/jesus-bailando.gif"  alt="jesus" />
+      
       </header>
 
     </div>
