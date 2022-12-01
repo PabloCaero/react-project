@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="images/perrito.png" className="App-logo" alt="perrito" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Example project made with React JS by PabloCaero :)
         </p>
         <a
           className="App-link"
@@ -17,7 +17,9 @@ function App() {
         >
           Learn React
         </a>
+      <img src="images/jesus-bailando.gif"  alt="jesus" />
       </header>
+
     </div>
   );
 }
